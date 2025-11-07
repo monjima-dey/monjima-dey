@@ -4,11 +4,7 @@
 
 <p align="left">My name is Monjima and I'm a Final Year Btech Student, from Narula Institute Of Technology</p>
 
-###
 
-<h2 align="left">About me</h2>
-
-###
 
 <p align="left">✨
 
