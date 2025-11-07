@@ -1,34 +1,47 @@
-class MonjimaDey:
-    def __init__(self):
-        self.name = "Monjima Dey"
-        self.education = "B.Tech in Computer Science and Engineering at Narula Institute of Technology"
-        self.cgpa = 9.19
-        self.skills = [
-            "Java", "Python", "C", "C++", "SQL",
-            "Spring Boot", "MongoDB", "MySQL", "Git", "Postman"
-        ]
-        self.interests = [
-            "Machine Learning", "Software Development", "IoT Systems", "Generative AI"
-        ]
-        self.projects = [
-            "EcoBazarX – Carbon Footprint Aware Shopping Assistant",
-            "Sports Car Price Prediction Model",
-            "Netflix-style Content Recommendation Engine",
-            "IoT-based Product Counting System"
-        ]
-        self.achievements = {
-            "HackerRank": "5⭐ in C and Java",
-            "Hackforge Hackathon (JU)": "Second Runner-Up",
-            "Smart India Hackathon": "Participant (2023, 2024)",
-            "NPTEL": ["Soft Computing (Topper)", "IoT (Elite)", "Computer Networks"]
-        }
-        self.current_learning = ["Spring Boot", "Generative AI", "Advanced Problem Solving"]
-        self.fun_fact = "I love solving complex problems and building impactful, intelligent systems!"
+<h1 align="left">Hey 👋 What's up?</h1>
 
-    def introduce(self):
-        print(f"Hi there! 👋 I'm {self.name}, a passionate developer and tech enthusiast.")
-        print("I enjoy blending creativity and logic to build real-world solutions.")
+###
 
-# Create an instance
-me = MonjimaDey()
-me.introduce()
+<p align="left">My name is Monjima and I'm a Final Year Btech Student, from Narula Institute Of Technology</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨
+
+## 💫 About Me
+
+I am a passionate and motivated **B.Tech student in Computer Science and Engineering** at **Narula Institute of Technology** with a strong foundation in **Java, Python, C, C++, and SQL**. I specialize in **Machine Learning, Software Development, and IoT-based projects**, with hands-on experience in developing intelligent systems and predictive models such as a **sports car price prediction model** and a **Netflix-style content recommender**.
+
+I have practical experience with frameworks and tools like **Spring Boot, MongoDB, MySQL, Postman, and Git**, and I enjoy working on backend development and data-driven applications. My achievements include **5⭐ ratings in C and Java on HackerRank**, **NPTEL certifications**, and being the **Second Runner-Up at the Hackforge Hackathon (Jadavpur University)**.
+
+I am always eager to explore emerging technologies like **Generative AI** and collaborate on projects that combine innovation with real-world impact.
+</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
+
+
+###
